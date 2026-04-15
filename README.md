@@ -30,6 +30,7 @@ here are some images of the project:
 <img width="775" height="728" alt="image" src="https://github.com/user-attachments/assets/28663ce6-32e1-4a9c-a8d2-e989c9f9ddcc" />
 
 the BOM:
+TODO!!! ACTUALLY WRITE THE BOM....
 
 estimated costs (via uploading gerber files to jlcpcb):
 <img width="1810" height="1091" alt="image" src="https://github.com/user-attachments/assets/748cb1b4-ed08-46ca-80c8-b35896231b79" />
