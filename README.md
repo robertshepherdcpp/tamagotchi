@@ -1,4 +1,4 @@
-# luna-tamagotchi
+<img width="1810" height="1091" alt="image" src="https://github.com/user-attachments/assets/99b36f09-85f2-4f04-bbfe-626dee8fb1b4" /># luna-tamagotchi
 my second project for fallout
 
 table of contents:
@@ -30,5 +30,12 @@ here are some images of the project:
 <img width="775" height="728" alt="image" src="https://github.com/user-attachments/assets/28663ce6-32e1-4a9c-a8d2-e989c9f9ddcc" />
 
 the BOM:
+
+estimated costs (via uploading gerber files to jlcpcb):
+<img width="1810" height="1091" alt="image" src="https://github.com/user-attachments/assets/748cb1b4-ed08-46ca-80c8-b35896231b79" />
+[link](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)
+
+
+
 
   
