@@ -1,4 +1,4 @@
-<img width="1810" height="1091" alt="image" src="https://github.com/user-attachments/assets/99b36f09-85f2-4f04-bbfe-626dee8fb1b4" /># luna-tamagotchi
+# luna-tamagotchi
 my second project for fallout
 
 table of contents:
