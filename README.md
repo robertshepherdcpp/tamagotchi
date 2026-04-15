@@ -1,16 +1,26 @@
 # luna-tamagotchi
 my second project for fallout
 
+table of contents:
+- A short description of what my project is
+- A couple sentences on why i made the project
+- A couple sentences on how to use my project
 
-why i chose to make with project (the inspiration):
+**what the project is:**
+- a custom tamagotchi consisting of a pcb designed in kiad and a case designed in the CAD software Fusion360
+what the tamagotchi consists of:
+- - a 3d case + lid
+  - the pcb which consists of: XIAO-ESP32-C6, buzzer, rotary encoder, 4 buttons, and a 0.96" screen.
+
+**why i chose to make with project (the inspiration):**
 - as i am still new to hardware, i thought having a tutorial as a fallback for if i got stuck would be useful (avoid endless rabbit holes hhh). also i remember using a tamagotchi when i was younger and thought it was pretty cool
 - so i decided to make a tamagotchi but to personalize it, so i made it of my friend luna.
 - therefore as the firmware i planned to make it have many of the same interests/personality traits as my friend
 - also the shape of a pig (an inside joke)
 
-what the tamagotchi consists of:
-- - a 3d case + lid
-  - the pcb which consists of: XIAO-ESP32-C6, buzzer, rotary encoder, 4 buttons
+**how to use my project**
+- first print off etc. the pcb and case
+- then flash the software (TODO: ACTUALLY SAY HOW TO FLASH ETC, HAVENT YET WRITTEN THE SOFTWARE THOUGH....)
 
 here are some images of the project:
 
