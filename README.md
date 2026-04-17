@@ -49,6 +49,8 @@ here are some images of the project:
 <img width="1385" height="754" alt="image" src="https://github.com/user-attachments/assets/7eeda688-ca41-4809-a17f-1069b659e289" />
 <img width="902" height="683" alt="image" src="https://github.com/user-attachments/assets/446dcf23-8e21-4a45-8d2e-b9cfef02f151" />
 <img width="965" height="508" alt="image" src="https://github.com/user-attachments/assets/b7a043b6-b535-4ef0-8cd6-394817818454" />
+(there are a few components missing in this image because the STEP files for them didnt load, however shouldnt have any effect when it comes to
+the actual PCB fabrication.)
 <img width="775" height="728" alt="image" src="https://github.com/user-attachments/assets/28663ce6-32e1-4a9c-a8d2-e989c9f9ddcc" />
 
 the BOM:
