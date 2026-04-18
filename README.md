@@ -63,6 +63,10 @@ estimated costs (via uploading gerber files to jlcpcb):
 <img width="1810" height="1091" alt="image" src="https://github.com/user-attachments/assets/748cb1b4-ed08-46ca-80c8-b35896231b79" />
 [link](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)
 
+my zine:
+<img width="563" height="857" alt="image" src="https://github.com/user-attachments/assets/85ce9479-8644-4831-8e79-8f5af9fbea36" />
+
+
 
 
 
