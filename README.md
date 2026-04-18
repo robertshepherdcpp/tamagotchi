@@ -8,11 +8,11 @@ what the tamagotchi consists of:
 - - a 3d case + lid
   - the pcb which consists of: XIAO-ESP32-C6, buzzer, rotary encoder, 4 buttons, and a 0.96" screen.
 
-**why i chose to make with project (the inspiration):**
+**why i chose to make with project (the inspiration/motivation):**
 - as i am still new to hardware, i thought having a tutorial as a fallback for if i got stuck would be useful (avoid endless rabbit holes hhh). also i remember using a tamagotchi when i was younger and thought it was pretty cool
 - so i decided to make a tamagotchi but to personalize it, so i made it of my friend luna.
 - therefore as the firmware i planned to make it have many of the same interests/personality traits as my friend
-- also the shape of a pig (an inside joke)
+- my mum had one of these when she was younger, and I thought it would be cool to make my own version and show it to her.
 
 **how to use my project**
 - first print off etc. the pcb and case. many different providers to do this.
