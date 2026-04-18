@@ -1,11 +1,12 @@
 Item,Description,Quantity,Unit Price ($),Total Price ($),URL,Running Total ($ with Tax)
-XIAO ESP32 C3,MCU,1,$7.09,$7.09,https://www.aliexpress.us/item/3256808605622611.html,$7.56 ✅
-Display,s,1,$1.93,$1.93,https://www.aliexpress.us/item/3256807544901434.html,$9.62 ✅
-Headers,Headers,1,$1.69,$1.69,https://www.aliexpress.us/item/3256811506646304.html,$11.42 ?
-Buzzer,12*9.5mm,1,$2.39,$2.39,https://www.aliexpress.us/item/3256810135642750.html,$13.97 ✅
-Button,4.5X4.5MM Button,1,$2.57,$2.57,https://www.aliexpress.us/item/3256806953793236.html,$16.71 ✅
-Threaded Inserts,M3X4X5,1,$1.56,$1.56,https://www.aliexpress.us/item/3256811754262338.html,$19.34
-Screws,"M3, 3mm",1,$2.23,$2.23,https://alishort.com/4bTrD,$21.72 
-Shipping,Aliexpress,1,$2.53,$2.53,https://www.aliexpress.us/,$24.42
-PCB,JLCPCB,1,$3.20,$3.20,https://jlcpcb.com/,$27.83
-Shipping,JLCPCB,1,$3.12,$3.12,https://jlcpcb.com/,$31.16
+XIAO ESP32 C3,MCU,1,$4.34,$4.34,https://www.aliexpress.us/item/3256808605622611.html,$4.34
+Display,s,1,$2.46,$2.46,https://www.aliexpress.us/item/3256807544901434.html,$6.80
+Headers,Headers,1,$1.57,$1.57,https://www.aliexpress.us/item/3256811506646304.html,$8.37
+Buzzer,12*9.5mm,1,$2.23,$2.23,https://www.aliexpress.us/item/3256810135642750.html,$10.60
+Button,4.5X4.5MM Button,1,$2.01,$2.01,https://www.aliexpress.us/item/3256806953793236.html,$12.61
+Threaded Inserts,M3X4X5,1,$2.47,$2.47,https://www.aliexpress.us/item/3256811754262338.html,$15.08
+Screws,"M3, 10mm",1,$1.94,$1.94,https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.tm1000056364.header.1.52471bf5lQ3z1L,$17.02 
+Rotary Encoder EC11, "20mm", 1, $3.12, $3.12, https://alishort.com/0M4I1,$20.14
+Shipping,Aliexpress,1,$0,$0,https://www.aliexpress.us/,$20.14
+PCB,JLCPCB,1,$4,$4,https://jlcpcb.com/,$24.14
+Shipping,JLCPCB,1,$3.30,$3.30,https://jlcpcb.com/,$27.44
