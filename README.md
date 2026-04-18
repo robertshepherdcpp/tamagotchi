@@ -52,6 +52,8 @@ here are some images of the project:
 (there are a few components missing in this image because the STEP files for them didnt load, however shouldnt have any effect when it comes to
 the actual PCB fabrication.)
 <img width="775" height="728" alt="image" src="https://github.com/user-attachments/assets/28663ce6-32e1-4a9c-a8d2-e989c9f9ddcc" />
+<img width="699" height="708" alt="image" src="https://github.com/user-attachments/assets/99fd1e33-5514-4094-ad77-a0cd235e113e" />
+
 
 the BOM:
 TODO!!! ACTUALLY WRITE THE BOM....
