@@ -55,16 +55,19 @@ the actual PCB fabrication.)
 <img width="775" height="728" alt="image" src="https://github.com/user-attachments/assets/28663ce6-32e1-4a9c-a8d2-e989c9f9ddcc" />
 <img width="699" height="708" alt="image" src="https://github.com/user-attachments/assets/99fd1e33-5514-4094-ad77-a0cd235e113e" />
 
-
-the BOM:
-TODO!!! ACTUALLY WRITE THE BOM....
-
 estimated costs (via uploading gerber files to jlcpcb):
 <img width="1810" height="1091" alt="image" src="https://github.com/user-attachments/assets/748cb1b4-ed08-46ca-80c8-b35896231b79" />
 [link](https://cart.jlcpcb.com/quote?stencilLayer=2&stencilWidth=100&stencilLength=100&stencilCounts=5&plateType=1&spm=Jlcpcb.Homepage.1010)
 
 my zine:
 <img width="563" height="857" alt="image" src="https://github.com/user-attachments/assets/85ce9479-8644-4831-8e79-8f5af9fbea36" />
+
+The BOM (available in BOM.csv in this github repo):
+aliexpress [link](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o.tm1000056364.header.1.52471bf5lQ3z1L)
+<img width="1540" height="519" alt="image" src="https://github.com/user-attachments/assets/5d086a90-6f9d-4ecf-a50c-d32ad73ee207" />
+Total Cost: $27.44
+
+
 
 
 
