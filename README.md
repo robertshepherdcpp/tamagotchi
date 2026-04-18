@@ -40,6 +40,12 @@ dont guess correctly, its decreased by 15%!! are you willing to risk your pets h
 - the aim to get all values as high as possible.
 - this is all done behind the scenes with the pcb, controlled by the XIAO-ESP32-C6.
 
+**how to use it?**
+- after setting up the project (with the PCB and Case etc. all set up):
+- this tamagotchi is your pet, you can feed it (luosifen), let it play (climb mountains), let it take a nap, and you can also go to a section called the wildcard
+- this is where you pick a random number between 1 and 18 and if you get the number or one of the adjacent numbers, your pets happiness doubles! however if not the happiness is decreased by 15%.
+- your ultimate goal is to keep your pet happy, healthy etc. by keeping the 4 stats variables high (intelligence, hunger, energy and happiness)
+
 here are some images of the project:
 
 <img width="1385" height="754" alt="image" src="https://github.com/user-attachments/assets/7eeda688-ca41-4809-a17f-1069b659e289" />
