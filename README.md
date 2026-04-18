@@ -1,4 +1,5 @@
-# luna-tamagotchi
+# tamagotchi
+luna-tamagotchi
 my second project for fallout
 
 table of contents:
