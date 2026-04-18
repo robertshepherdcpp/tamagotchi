@@ -63,6 +63,8 @@ aliexpress [link](https://www.aliexpress.com/p/shoppingcart/index.html?spm=a2g0o
 <img width="1540" height="519" alt="image" src="https://github.com/user-attachments/assets/5d086a90-6f9d-4ecf-a50c-d32ad73ee207" />
 Total Cost: $27.44
 
+the whole building process was documented on my youtube channel [here](https://www.youtube.com/@robertshepherdcpp)
+
 
 
 
