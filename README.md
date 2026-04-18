@@ -2,11 +2,6 @@
 luna-tamagotchi
 my second project for fallout
 
-table of contents:
-- A short description of what my project is
-- A couple sentences on why i made the project
-- A couple sentences on how to use my project
-
 **what the project is:**
 - a custom tamagotchi consisting of a pcb designed in kiad and a case designed in the CAD software Fusion360
 what the tamagotchi consists of:
